@@ -1,0 +1,77 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl en_suzu1
+Ns 96.078431
+Ka 0.972549 0.972549 0.972549
+Kd 0.784314 0.784314 0.784314
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd en_suzu1.png
+map_Ka en_suzu1.png
+map_d en_suzu1.png
+
+newmtl en_suzu2
+Ns 96.078431
+Ka 0.972549 0.972549 0.972549
+Kd 0.784314 0.784314 0.784314
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd en_suzu2.png
+map_Ka en_suzu2.png
+map_d en_suzu2.png
+
+newmtl en_suzu2_
+Ns 96.078431
+Ka 0.972549 0.972549 0.972549
+Kd 0.784314 0.784314 0.784314
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd en_suzu2_.png
+map_Ka en_suzu2_.png
+map_d en_suzu2_.png
+
+newmtl en_suzu4
+Ns 96.078431
+Ka 0.972549 0.972549 0.972549
+Kd 0.784314 0.784314 0.784314
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd en_suzu4.png
+map_Ka en_suzu4.png
+map_d en_suzu4.png
+
+newmtl h_kage
+Ns 96.078431
+Ka 0.972549 0.972549 0.972549
+Kd 0.784314 0.784314 0.784314
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.290323
+illum 2
+map_Kd h_kage.png
+map_Ka h_kage.png
+map_d h_kage.png
